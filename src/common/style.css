@@ -1,0 +1,21 @@
+.title{
+  text-align: center;
+}
+
+.img-wrap{
+  text-align: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.img-wrap > img{
+  max-width: 768px;
+}
+
+
+/*算法演示*/
+
+.calc-demo{
+  max-width: 768px;
+  margin: 30px auto;
+}
